@@ -1,5 +1,6 @@
 - 👋 Hello World!!!
 - 😊 Hi, I’m @parth-2892
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning MERN Stack Development.
+- 📝 I’m currently learning MERN Stack Development.
+- ✒️ How to reach me: parthpatel0902004@gmail.com
 - 😄 Pronouns: Parth
